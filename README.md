@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Commerce](https://github.com/Yash-Khadse/E-Commerce-frontend)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/yash-khadse-4yk</h3>
 <p align="left">
 </p>
 
