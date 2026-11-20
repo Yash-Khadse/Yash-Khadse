@@ -1,121 +1,187 @@
-<h1 align="center">Hi, I'm Yash Khadse 👋</h1>
-<h3 align="center">Full-Stack Developer | Building web apps & exploring AI/ML | Hyderabad, India</h3>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://yashkhadse.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yashkhadse.site-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-khadse-4yk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/_yasssh" target="_blank"><img src="https://img.shields.io/badge/X-@_yasssh-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1f3a,100:0e75b6&text=Yash%20Khadse&fontColor=ffffff&fontSize=54&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="Yash Khadse — AI Engineer · Full-Stack Developer" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-khadse&label=Profile%20views&color=0e75b6&style=flat" alt="yash-khadse profile views" />
-  <img src="https://img.shields.io/github/followers/Yash-Khadse?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-</p>
+<a href="https://www.yashkhadse.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=40&lines=AI+Engineer+%C2%B7+Full-Stack+Developer;Building+LLM+systems%2C+RAG+pipelines+%26+agents;From+model+to+product%2C+end+to+end" alt="Typing animation" />
+</a>
 
----
+<br />
 
-### 👨‍💻 About Me
+<a href="https://www.yashkhadse.com"><img src="https://img.shields.io/badge/Portfolio-yashkhadse.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/yash-khadse-4yk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.yashkhadse.com/Yash-Khadse-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-1f2937?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" /></a>
+<a href="mailto:khadseyash4@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/_yasssh"><img src="https://img.shields.io/badge/X-@_yasssh-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
-- 🔭 Currently building **[E-Commerce](https://github.com/Yash-Khadse/E-Commerce-frontend)** — a full-stack e-commerce platform (TypeScript frontend + backend)
-- 🧠 Also working on **Era**, an AI loan agent project
-- 🌱 Exploring machine learning and computer vision (PyTorch, TensorFlow, OpenCV, scikit-learn)
-- 🛠️ Comfortable across the stack: React/React Native on the front end, Node/Express on the back end, SQL & NoSQL for data
-- 📫 Reach me at: **yashkhadse.site** · LinkedIn above
-- ⚡ Fun fact: always tinkering with side projects in Python and TypeScript
+<br /><br />
 
----
+<img src="https://komarev.com/ghpvc/?username=Yash-Khadse&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Yash-Khadse?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-0e75b6?style=flat-square&logo=googlemaps&logoColor=white" alt="Hyderabad, India" />
 
-### 🚀 Featured Projects
+</div>
 
-| Project | Description | Stack |
-|---|---|---|
-| [Sign-Language-Translator](https://github.com/Yash-Khadse/Sign-Language-Translator) | Real-time sign language translation | Python |
-| [Health-Monitoring-System](https://github.com/Yash-Khadse/Health-Monitoring-System) | System for tracking health metrics | Python |
-| [E-Commerce-frontend](https://github.com/Yash-Khadse/E-Commerce-frontend) | Storefront UI for an e-commerce platform | TypeScript |
-| [E-commerce-server](https://github.com/Yash-Khadse/E-commerce-server) | Backend/API for the e-commerce platform | TypeScript |
-| [Era_frontend](https://github.com/Yash-Khadse/Era_frontend) | AI loan agent — client app | HTML |
-| [Era_backend](https://github.com/Yash-Khadse/Era_backend) | AI loan agent — server logic | Python |
+<br />
 
-> 💡 Tip: add a one-line description and topics to each of these repos on GitHub (Settings → General) — that description is what shows up here and in search, so it's worth filling in.
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 👨‍💻 About
 
----
+```ts
+const yash = {
+  role:       "AI Engineer & Full-Stack Developer",
+  location:   "Hyderabad, India (UTC+05:30)",
+  focus:      ["LLM systems", "RAG", "Agents", "Full-stack engineering"],
+  shipped:    ["Nucel", "NyraAI", "NS4 Inc platform"],
+  education:  "B.Tech, CSE (Data Science) — Malla Reddy Engineering College",
+  freelance:  ["Web (Next.js, React)", "Apps (React Native, Expo)", "AI automations & agents"],
+};
+```
 
-### 🧰 Languages & Tools
+I'm an **AI Engineer and Full-Stack Developer**. I build AI systems that connect models to the work they need to do — from grounded knowledge assistants to agents that take action — and the full-stack products around them, from interface to API to cloud delivery. My focus is the gap between *a model that works* and *a product people can actually use*.
 
-**Languages**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
-</p>
+<br />
 
-**Frontend**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/>
-</p>
+<!-- ═══════════════════════════ FEATURED WORK ═══════════════════════════ -->
+## 🚀 Featured Work
 
-**Backend & Databases**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="36" height="36"/>
-</p>
+| Project | What it is | Built with |
+|:--|:--|:--|
+| **[Nucel](https://www.yashkhadse.com/work/nucel/)**<br/><sub>Live product</sub> | Cross-platform knowledge base with an AI assistant grounded in the user's own sources. | `Next.js` `React Native` `pgvector` |
+| **[NyraAI](https://www.yashkhadse.com/work/nyraai/)**<br/><sub>Voice AI platform</sub> | Production voice AI with low-latency speech synthesis, ChromaDB RAG retrieval, multi-model routing (OpenAI + Anthropic) and proactive safety guardrails. | `LangChain` `ChromaDB` `FastAPI` `OpenAI` `Anthropic` |
+| **[NS4 Inc](https://www.yashkhadse.com/work/ns4-inc/)**<br/><sub>Enterprise platform</sub> | High-performance digital platform and cloud infrastructure for an enterprise technology firm — 100/100 Lighthouse, sub-second edge delivery. | `Next.js 15` `React` `Tailwind` `Docker` `Salesforce CRM` `Cloud Run / AWS` |
+| **[Enterprise RAG](https://www.yashkhadse.com/work/enterprise-rag/)** | Answers grounded in a large document corpus, built around relevance, traceability and continuous evaluation. | `Hybrid retrieval` `Cross-encoder re-ranking` `DeepEval in CI` |
+| **[Agent Workflows](https://www.yashkhadse.com/work/multi-agent-workflows/)** | Coordinated agents for document-heavy workflows, with human approval gates. | `LangGraph` `CrewAI` |
+| **[Voice & Memory](https://www.yashkhadse.com/work/voice-agent/)** | Realtime voice assistant with persistent memory and tools for calendar, CRM and search. | `Whisper` `GPT-4o` `ElevenLabs` |
 
-**AI / ML / Data**
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="36" height="36"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="36" height="36"/>
-</p>
+<br />
 
-**DevOps, Cloud & Tools**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
-</p>
+<!-- ═══════════════════════════ FREELANCE ═══════════════════════════ -->
+## 🤝 Available for Freelance
 
----
+| | |
+|:--|:--|
+| 🌐 **Web development** | Next.js and React applications |
+| 📱 **App development** | React Native and Expo |
+| ⚙️ **AI automations** | Workflows that remove repetitive work |
+| 🧠 **AI agents & engineering** | RAG, agent orchestration, voice assistants |
 
-### 📊 GitHub Stats
+<a href="mailto:khadseyash4@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20project-khadseyash4%40gmail.com-0e75b6?style=flat-square&logo=gmail&logoColor=white" alt="Start a project" /></a>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash-khadse&show_icons=true&theme=default&count_private=true" alt="Yash's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-khadse&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-khadse&theme=default" alt="GitHub Streak" />
-</p>
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🧰 Tech Stack
 
----
+**AI Systems**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0e75b6?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-6D28D9?style=flat-square)
+![DeepEval](https://img.shields.io/badge/DeepEval-0e75b6?style=flat-square)
+![Tool calling](https://img.shields.io/badge/Tool%20calling-374151?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square)
 
-### 🤝 Connect With Me
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,c,html,css&theme=dark" alt="Languages" />
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-khadse-4yk" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/></a>
-<a href="https://x.com/_yasssh" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="x/twitter" width="32" height="32"/></a>
-<a href="https://yashkhadse.site" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="portfolio" width="32" height="32"/></a>
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap&theme=dark" alt="Frontend" /><br/>
+<sub>React · Next.js · React Native · Expo · Tailwind CSS · Sass · Bootstrap</sub>
 
-<p align="center"><i>⭐️ If any of my repos are useful to you, a star helps a lot!</i></p>
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,redis,firebase,appwrite&theme=dark" alt="Backend and databases" /><br/>
+<sub>FastAPI · Node.js · Express · PostgreSQL · pgvector · MongoDB · MySQL · Redis / BullMQ · Firebase · Appwrite · ChromaDB</sub>
+
+**AI / ML & Data**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,opencv&theme=dark" alt="AI, ML and data" /><br/>
+<sub>PyTorch · TensorFlow · scikit-learn · pandas · OpenCV · Seaborn · Chart.js</sub>
+
+**DevOps, Cloud & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,heroku,nginx,git,github,postman,figma,vscode&theme=dark" alt="DevOps, cloud and tools" /><br/>
+<sub>Docker · AWS · GCP · Heroku · Nginx · CI/CD · Git · Postman · Figma · Selenium</sub>
+
+<br />
+
+<!-- ═══════════════════════════ OPEN SOURCE ═══════════════════════════ -->
+## 📂 Open-Source Projects
+
+| Repository | Description | Language |
+|:--|:--|:--|
+| [**E-Commerce-frontend**](https://github.com/Yash-Khadse/E-Commerce-frontend) | Storefront UI for a full-stack e-commerce platform. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**E-commerce-server**](https://github.com/Yash-Khadse/E-commerce-server) | Backend API for the e-commerce platform. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Era_backend**](https://github.com/Yash-Khadse/Era_backend) | Server logic for Era, an AI loan agent. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Era_frontend**](https://github.com/Yash-Khadse/Era_frontend) | Client app for Era, an AI loan agent. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**Sign-Language-Translator**](https://github.com/Yash-Khadse/Sign-Language-Translator) | Real-time sign language translation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Health-Monitoring-System**](https://github.com/Yash-Khadse/Health-Monitoring-System) | System for tracking health metrics. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+<br />
+
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════
+     Cards are generated by .github/workflows/profile-stats.yml and committed
+     to profile-summary-card-output/ — no third-party service is hit at view time. -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/0-profile-details.svg" />
+    <img width="48%" alt="GitHub profile details" src="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/0-profile-details.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/3-stats.svg" />
+    <img width="48%" alt="GitHub stats" src="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/3-stats.svg" />
+  </picture>
+<br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+    <img width="48%" alt="Repos per language" src="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+    <img width="48%" alt="Most committed languages" src="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  </picture>
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════
+     Generated by .github/workflows/snake.yml (pushes to the "output" branch).
+     Remove this block if you choose not to add the workflow.                  -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Yash-Khadse/Yash-Khadse/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+## 📬 Let's Connect
+
+Got an AI product, a knowledge assistant or a full-stack build in mind? I'd love to hear about it.
+
+<a href="https://www.yashkhadse.com"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/yash-khadse-4yk"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:khadseyash4@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/_yasssh"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+
+<div align="center">
+
+<br />
+
+<sub>⭐ If any of my repositories are useful to you, a star goes a long way.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0e75b6,100:0b1f3a" alt="" />
+
+</div>
