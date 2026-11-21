@@ -1,0 +1,42 @@
+name: Generate streak card
+
+on:
+  schedule:
+    - cron: "15 1 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/streak.yml", ".github/scripts/streak.py"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: streak-card
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build streak cards
+        run: python3 .github/scripts/streak.py
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          # Add a PAT (repo + read:user) as SUMMARY_GITHUB_TOKEN to include private contributions.
+          GH_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-streak
+          if git diff --cached --quiet; then
+            echo "No changes"; exit 0
+          fi
+          git commit -m "chore: update streak card"
+          git pull --rebase origin main
+          git push origin HEAD:main
